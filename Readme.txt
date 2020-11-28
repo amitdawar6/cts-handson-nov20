@@ -1,3 +1,2 @@
-My repository for cts handson nov 2020 is listed below
+Fork this repository to do the hands-on
 
-BuddyPapa
