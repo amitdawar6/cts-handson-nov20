@@ -1,0 +1,11 @@
+  
+server:
+  port: 8090
+spring:
+  application:
+    name: bank-client-one
+  cloud:
+    config:
+      uri: http://localhost:8888/
+  profiles:
+    active: dataSource
